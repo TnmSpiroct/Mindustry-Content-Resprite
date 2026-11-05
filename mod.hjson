@@ -4,5 +4,5 @@ description: Resprites some of serpulo sprites available on vanilla mindustry, w
 author: TnmSpiroct
 minGameVersion: 159.6
 version: 0.9
-hidden: true
+hidden: false
 hideBrowser: false
