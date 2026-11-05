@@ -1,0 +1,8 @@
+name: tnmspr
+displayName: Mindustry Texture Packs
+description: Resprites some of serpulo sprites available on vanilla mindustry, work in progress.
+author: TnmSpiroct
+minGameVersion: 159.6
+version: 0.9
+hidden: true
+hideBrowser: false
